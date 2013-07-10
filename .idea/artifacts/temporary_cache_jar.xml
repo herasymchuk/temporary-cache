@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="temporary-cache:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/temporary_cache_jar</output-path>
+    <root id="archive" name="temporary-cache.jar">
+      <element id="module-output" name="temporary-cache" />
+    </root>
+  </artifact>
+</component>
